@@ -1,4 +1,4 @@
-FROM openjdk
+FROM node:5.11.1
 
 RUN apt-get update && apt-get install -y libelf1
 
