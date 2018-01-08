@@ -1,6 +1,6 @@
 server:  
-  port: ${PORT:4444}
-#  port: ${PORT:2222}
+#  port: ${PORT:4444}
+  port: ${PORT:2222}
 
 spring:  
   application:
